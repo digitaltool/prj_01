@@ -6,7 +6,7 @@ $('.slider__inner').slick({
     infinite: false
 });
 
-
+$('select').styler();
 
 
 
